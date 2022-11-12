@@ -5,3 +5,8 @@ Resolução do exercício 042 da aulo do curso em video Python
 #| b - c | < a < b + c 
 #| a - c | < b < a + c 
 #| a - b | < c < a + b 
+acrescentando o recurso de mostrar que tipo de triangulo
+sera formado:
+-equilatero: todos os lados iguais
+-isoceles: dois lador iguais
+-escaleno: todoso os lados diferentes
